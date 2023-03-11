@@ -12,7 +12,6 @@ public class ConfigReader {
     static {
 
         try {
-
             //we need to open the file in java memory using file input stream
             FileInputStream file= new FileInputStream("configuration.properties");
 

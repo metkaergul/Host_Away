@@ -8,7 +8,6 @@ import java.util.List;
 
 public class AllListing_Page extends Main_Page {
 
-
     @FindBy(xpath = "//span[@class='sc-eGJWMs lkeyLH']/span")
     public WebElement numberInAll;
 

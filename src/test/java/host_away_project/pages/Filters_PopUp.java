@@ -28,6 +28,7 @@ public class Filters_PopUp extends Main_Page {
     public WebElement applyButton;
 
 
+
     //Rooms and beds section in the filters for finding the min and max values and doing assertion
 
     @FindBy(xpath = " //div[.='Beds']/../div/div/span")

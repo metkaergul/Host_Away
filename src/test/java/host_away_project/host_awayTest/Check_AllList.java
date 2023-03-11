@@ -29,9 +29,7 @@ public class Check_AllList extends Filters_PopUp {
 
         Assert.assertEquals(listSize, numberInAllLabel);
 
-
     }
-
 
     //the reason why I put @After test annotation within the Check_AllList class is that I wanted to use my driver instance
     //throughout my test suite that is created within the host_away.xml file
