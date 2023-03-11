@@ -9,6 +9,7 @@ Before executing this project, make sure you have the following software install
 - Maven
 - Allure
 - IntelliJ IDEA
+- TestNG
 
 ## Steps
 
