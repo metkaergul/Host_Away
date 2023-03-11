@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="My Test Suite">
+    <test name="My First Test">
+        <classes>
+            <class name="host_away_project.host_awayTest.Check_Filters"/>
+        </classes>
+    </test>
+    <test name="My Second Test">
+        <classes>
+            <class name="host_away_project.host_awayTest.Check_AllList"/>
+        </classes>
+    </test>
+
+</suite>
